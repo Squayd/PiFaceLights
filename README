@@ -1,0 +1,7 @@
+PiFaceLights is a simple exercise in learning and combining:
+  nginx
+  bootstrap
+  python
+  piface digtal
+
+It's a simple web interface viewable on any device that controls LEDs on a PiFace Digital Raspberry PI daughterboard.
